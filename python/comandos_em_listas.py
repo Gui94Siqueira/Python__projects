@@ -1,0 +1,10 @@
+animais = ['gato', 'Cachorro', 'elefante']
+print(animais)
+animais.append('galinha')
+print(animais)
+animais.insert(0,'papagaio')
+print(animais)
+animais.pop(0)
+print(animais)
+animais.remove('gato')
+print(animais)
